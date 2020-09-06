@@ -1,0 +1,5 @@
+DATABASE='database_name'
+USER='username'
+PASSWORD='password'
+HOST='localhost'
+PORT='5432'
